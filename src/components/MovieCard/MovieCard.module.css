@@ -1,0 +1,12 @@
+.linkBox {
+  margin-bottom: 10px;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: rgb(134, 134, 255);
+}
